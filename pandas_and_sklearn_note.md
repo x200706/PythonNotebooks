@@ -118,7 +118,7 @@ def print_leaf_info(node_info, depth=0):
 
 print_leaf_info(root_info)
 ```
->💡反思：
+>💡反思：  
 >最近又開始想要了解數據分析到底在做甚麼  
 >意識到之前理解有所問題  
 >數據分析的測重點是如何清洗資料、如何找出特徵  
